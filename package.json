@@ -1,0 +1,20 @@
+{
+  "name": "react-theme-manager",
+  "version": "1.0.0",
+  "description": "Es una biblioteca de React diseñada para gestionar breakpoints y temas de color utilizando Context API. Proporciona utilidades fáciles de usar para definir y aplicar temas y breakpoints de manera eficiente en tus aplicaciones React, mejorando la experiencia de desarrollo y la consistencia visual.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelYustiz/react-theme-manager.git"
+  },
+  "keywords": [],
+  "author": "Manuel Yustiz",
+  "license": "ISC",
+  "dependencies": {
+    "react": "18.3.1",
+    "typescript": "5.0.2"
+  }
+}
